@@ -60,8 +60,8 @@ body{
     box-shadow:0px 3px 3px -4px #07090ac4
 }
 .header_logo img{
-    max-width: 130px;
-    width: 15%;
+    max-width: 150px;
+    width: 20%;
     min-width: 100px;
     margin: 25px 10px 10px 25px;
 }
@@ -144,6 +144,7 @@ body{
 }
 .comunity img{
     text-align: center;
+    width: 80px;
 }
 .s1 {
 	color: #444;
@@ -245,7 +246,7 @@ footer {
 }
 .footer_comunity img{
     text-align: center;
-    width: 100px;
+    width: 80px;
 }
 .page-back {
     position: fixed;
