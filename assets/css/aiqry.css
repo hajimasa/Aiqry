@@ -257,6 +257,10 @@ footer {
     width: 85px;
     border-radius: 50%;
 }
+.small {
+    font-size: 13px;
+    color: #777;
+}
 @media (min-width: 768px) {
     .pc_hidden{
         display: none;
